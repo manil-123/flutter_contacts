@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.manil.flutter_contacts"
+    namespace "flutter.plugins.contactsservice.contactsservice"
     
     compileSdkVersion 35
 
